@@ -1,0 +1,13 @@
+{
+    "diffEditor.wordWrap": "off",
+    "editor.wordWrap": "on",
+    "editor.codeActionsOnSave": {
+    
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+     },
+    "emmet.preferences": {
+    
+    }
+}
