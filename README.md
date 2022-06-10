@@ -38,8 +38,8 @@ Screenshot of Business Card .... Looks pretty neat to my eyes😃.
 
 ### Links
 
-- Solution URL: (https://github.com/issagoodlifeInc/clipboard-page.git)
-- Live Site URL: (https://issagoodlifeinc.github.io/clipboard-page/)
+- Solution URL: [GitHub Link](https://github.com/issagoodlifeInc/business-card.git)
+- Live Site URL: [Netlify Deploy](https://business-cardleskim.netlify.app/)
 
 ## My process
 
